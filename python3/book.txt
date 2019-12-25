@@ -1,0 +1,4 @@
+Name  English  Hind  Maths
+jyo     87      98     45
+siri    56      67     87
+priya    56     45      90
